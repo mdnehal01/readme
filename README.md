@@ -14,3 +14,5 @@ nodemon app.js
 | **Pandas** | ` pip install pandas ` | "Data manipulation and analysis library." |
 | **SkLearn** | ` pip install sklearn ` | "Includes Machine learning for Python users." |
 | **MatplotLib** | ` pip install matplotlib ` | "Data Visualization." | 
+| **Pickle** | ` pip install pickle ` | "Dump and load model in .pkl file." | 
+| **Joblib** | ` pip install joblib ` | "Dump and load model in .pkl file." | 
