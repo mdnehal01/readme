@@ -1,6 +1,8 @@
 # readme
 #### note: make sure you have installed the Node Js environment
-```bash https://nodejs.org/en/download ```
+```bash 
+https://nodejs.org/en/download
+```
 ### Step 1: Save the project ZIP on your Desktop
 ### Step 2: Open Command Prompt or Terminal(For Ubuntu) and change Directory to the Folder where whole project is stored
 
