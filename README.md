@@ -1,2 +1,2 @@
 # readme
-$ !pip install pandas
+``` !pip install pandas ```
