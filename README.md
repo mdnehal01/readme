@@ -18,6 +18,7 @@ https://nodejs.org/en/download
 | **Pickle** | ` pip install pickle ` | "Dump and load model in .pkl file." | 
 | **Joblib** | ` pip install joblib ` | "Dump and load model in .pkl file." | 
 
+---
 
 
 ### Step 2: Open Command Prompt or Terminal(For Ubuntu) and change Directory to the Folder where whole project is stored 
@@ -25,6 +26,7 @@ https://nodejs.org/en/download
 ``` bash
 npm init
 ```
+---
 #### If wanted to install dependency Install.
 ## Node JS
 | Libraries | Installations | Purpose |
@@ -34,12 +36,21 @@ npm init
 | **Embedded JavaScript** | ` npm install ejs ` | "Templating for web." |
 | **Python Shell** | ` npm install python-shell ` | "Sending user input and receive result to and from loaded Machine Learning model." | 
 
+---
+---
+---
+
 ### Step 3: To start the server paste the command
 ```bash
 node app.js
 ```
 
+---
+---
+---
+
+
 ### Step 4: Open a browser and paste the following to access the WebApplication.
 ```bash
-http://localhost:3000
+http://localhost:3000 
 ```
