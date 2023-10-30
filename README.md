@@ -1,10 +1,12 @@
 # readme
-#### note: make sure you have installed the Node Js environment
+
+#### note: make sure you have installed the Node Js environment copy link and install the required version for your OPERATING SYSTEM
 ```bash 
 https://nodejs.org/en/download
 ```
+
 ### Step 1: Save the project ZIP on your Desktop
-### Step 2: Open Command Prompt or Terminal(For Ubuntu) and change Directory to the Folder where whole project is stored
+
 
 ```bash
 nodemon app.js
@@ -20,6 +22,13 @@ nodemon app.js
 | **Pickle** | ` pip install pickle ` | "Dump and load model in .pkl file." | 
 | **Joblib** | ` pip install joblib ` | "Dump and load model in .pkl file." | 
 
+
+
+### Step 2: Open Command Prompt or Terminal(For Ubuntu) and change Directory to the Folder where whole project is stored 
+#### initialize npm (node package manager)
+``` bash
+npm init
+```
 
 ## Node JS
 | Libraries | Installations | Purpose |
