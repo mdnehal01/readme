@@ -10,7 +10,7 @@ nodemon app.js
 ## Pandas
 | Libraries | Installations | Purpose |
 | --- | --- | --- |
-| **Numpy** | ` pip install numpy ` | `"Efficient numerical operations for Python."` |
+| **Numpy** | ` pip install numpy ` | "Efficient numerical operations for Python." |
 | **Pandas** | ` pip install pandas ` |
 | **SkLearn** | ` pip install sklearn ` |
 | **Pandas** | ` pip install pandas ` |
