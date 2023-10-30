@@ -11,9 +11,7 @@ https://nodejs.org/en/download
 ## Pandas
 | Libraries | Installations | Purpose |
 | --- | --- | --- |
-| **Numpy** | ``` bash 
-pip install numpy 
-``` | "Efficient numerical operations for Python." |
+| **Numpy** | `pip install numpy` | "Efficient numerical operations for Python." |
 | **Pandas** | ` pip install pandas ` | "Data manipulation and analysis library." |
 | **SkLearn** | ` pip install sklearn ` | "Includes Machine learning for Python users." |
 | **MatplotLib** | ` pip install matplotlib ` | "Data Visualization." | 
@@ -36,7 +34,12 @@ npm init
 | **Embedded JavaScript** | ` npm install ejs ` | "Templating for web." |
 | **Python Shell** | ` npm install python-shell ` | "Sending user input and receive result to and from loaded Machine Learning model." | 
 
-#### To start the server paste the command
+### Step 3: To start the server paste the command
 ```bash
 node app.js
+```
+
+### Step 4: Open a browser and paste the following to access the WebApplication.
+```bash
+http://localhost:3000/)http://localhost:3000
 ```
