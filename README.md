@@ -7,15 +7,13 @@ https://nodejs.org/en/download
 
 ### Step 1: Save the project ZIP on your Desktop
 
-
-```bash
-nodemon app.js
-```
-
+#### To install python libraries use following commands
 ## Pandas
 | Libraries | Installations | Purpose |
 | --- | --- | --- |
-| **Numpy** | ` pip install numpy ` | "Efficient numerical operations for Python." |
+| **Numpy** | ``` bash 
+pip install numpy 
+``` | "Efficient numerical operations for Python." |
 | **Pandas** | ` pip install pandas ` | "Data manipulation and analysis library." |
 | **SkLearn** | ` pip install sklearn ` | "Includes Machine learning for Python users." |
 | **MatplotLib** | ` pip install matplotlib ` | "Data Visualization." | 
@@ -29,7 +27,7 @@ nodemon app.js
 ``` bash
 npm init
 ```
-
+#### If wanted to install dependency Install.
 ## Node JS
 | Libraries | Installations | Purpose |
 | --- | --- | --- |
@@ -37,3 +35,8 @@ npm init
 | **Body Parser** | ` npm install body-parser ` | "Parsing the user input in the form to backend(node js)." |
 | **Embedded JavaScript** | ` npm install ejs ` | "Templating for web." |
 | **Python Shell** | ` npm install python-shell ` | "Sending user input and receive result to and from loaded Machine Learning model." | 
+
+#### To start the server paste the command
+```bash
+node app.js
+```
