@@ -5,7 +5,7 @@
 
 ```bash
 nodemon app.js
-
+```
 
 ### Details: https://spacy.io/models/en#en_core_web_lg
 
