@@ -11,6 +11,6 @@ nodemon app.js
 | Libraries | Installations | Purpose |
 | --- | --- | --- |
 | **Numpy** | ` pip install numpy ` | "Efficient numerical operations for Python." |
-| **Pandas** | ` pip install pandas ` |
-| **SkLearn** | ` pip install sklearn ` |
-| **Pandas** | ` pip install pandas ` |
+| **Pandas** | ` pip install pandas ` | "Data manipulation and analysis library." |
+| **SkLearn** | ` pip install sklearn ` | "Includes Machine learning for Python users." |
+| **MatplotLib** | ` pip install matplotlib ` | "Data Visualization." | 
