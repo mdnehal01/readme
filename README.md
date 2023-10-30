@@ -10,6 +10,6 @@ nodemon app.js
 ## Pandas
 | Libraries | Installations |
 | --- | --- |
-| **Numpy** | ```bash pip install numpy``` |
+| **Numpy** | ```bash pip install numpy ``` |
 | **Pandas** | `pip install pandas` |
 
