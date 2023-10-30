@@ -3,7 +3,7 @@
 ## Description
 This project is about **"AI-Powered Skin and Hair Care Recommendation System"** and the Name of project is **"Skin Sense .AI"**. This is a product based project which uses **"Machine Learning"** to recommend the users actual products according to their Skin and Hair Types.
 
-#### note: make sure you have installed the Node Js environment copy link and install the required version for your OPERATING SYSTEM
+#### note: make sure you have installed the Node Js environment else copy the link and install the required version for your OPERATING SYSTEM
 ```bash 
 https://nodejs.org/en/download
 ```
