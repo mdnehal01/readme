@@ -25,5 +25,3 @@ nodemon app.js
 | **Body Parser** | ` npm install body-parser ` | "Parsing the user input in the form to backend(node js)." |
 | **Embedded JavaScript** | ` npm install ejs ` | "Templating for web." |
 | **Python Shell** | ` npm install python-shell ` | "Sending user input and receive result to and from loaded Machine Learning model." | 
-| **Pickle** | ` pip install pickle ` | "Dump and load model in .pkl file." | 
-| **Joblib** | ` pip install joblib ` | "Dump and load model in .pkl file." | 
