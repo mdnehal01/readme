@@ -8,8 +8,9 @@ nodemon app.js
 ```
 
 ## Pandas
-| Libraries | Installations |
-| --- | --- |
-| **Numpy** | ```bash pip install numpy ``` |
-| **Pandas** | `pip install pandas` |
-
+| Libraries | Installations | Purpose |
+| --- | --- | --- |
+| **Numpy** | ` pip install numpy ` | `"Efficient numerical operations for Python."` |
+| **Pandas** | ` pip install pandas ` |
+| **SkLearn** | ` pip install sklearn ` |
+| **Pandas** | ` pip install pandas ` |
