@@ -1,5 +1,5 @@
 # readme
 ``` !pip install pandas ```
 ```bash
-# This is a Bash command
-$ Bhai
+# To run the server Open the project's location in the COMMAND PROMPT and start the server.
+nodemon app.js
