@@ -41,5 +41,5 @@ node app.js
 
 ### Step 4: Open a browser and paste the following to access the WebApplication.
 ```bash
-http://localhost:3000/)http://localhost:3000
+http://localhost:3000
 ```
