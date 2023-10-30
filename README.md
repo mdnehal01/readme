@@ -7,7 +7,8 @@
 nodemon app.js
 ```
 
+## Pandas
 | Libraries | Installations |
 | --- | --- |
 | **Numpy** | `pip install numpy` |
-| **Version** | `1.0.0` |
+
